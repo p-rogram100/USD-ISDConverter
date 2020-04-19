@@ -1,0 +1,66 @@
+
+@media only screen   
+and (min-device-width : 320px)   
+and (max-device-width : 480px)  
+{ 
+    .form-modal
+    {
+        width:500px;
+        margin-top: 40em;
+    }
+    .form-toggle button
+    {
+        font-size:1.5em;
+    }
+    /* .form-modal input, select
+    {
+        font-size:2em;
+    } */
+    .form-modal .btn
+    {
+        font-size:1.5em;
+    }
+    #error h6
+    {
+        font-size:1.3em;
+    }
+    #error1 h6
+    {
+        font-size:1.3em;
+    }
+}  
+
+
+/* For 640 Resolution */  
+@media only screen   
+and (min-device-width : 481px)   
+and (max-device-width : 640px)  
+{ .form-modal
+    {
+        width:500px;
+        margin-top: 20em;
+    }
+    .form-toggle button
+    {
+        font-size:1.5em;
+    }
+    /* .form-modal input, select
+    {
+        font-size:2em;
+    } */
+    .form-modal .btn
+    {
+        font-size:1.6em;
+    }
+    #error h6
+    {
+        font-size:1.3em;
+    }
+    #error1 h6
+    {
+        font-size:1.3em;
+    }
+
+} 
+
+

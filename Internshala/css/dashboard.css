@@ -1,0 +1,16 @@
+select
+{
+    position: relative;
+    width:100%;
+    font-size:1em;
+    padding:1.2em 1.7em 1.2em 1.7em;
+    margin-top:0.6em;
+    margin-bottom:0.6em;
+    border-radius: 20px;
+    border:none;
+    border-bottom: 2px solid #2296f5;
+    background:#ebebeb;
+    outline:none;
+    /* font-weight: bold; */
+    transition:0.4s;
+}
